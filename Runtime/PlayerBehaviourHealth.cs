@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace BobboNet.PlayerBehaviour.Health
+namespace BobboNet.PlayerBehaviours
 {
     public class PlayerBehaviourHealth : PlayerBehaviour
     {
